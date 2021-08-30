@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💡 Already I studied: Python, C++
+- 💠 Already I studied: Python, C++
 - 📗 I’m currently learning: C#, HTML&CSS
 - 🤔 I’m looking for help with Classic Pong: testing, suggestions, adding features and etc.
 - 💬 Ask me about anything you want
