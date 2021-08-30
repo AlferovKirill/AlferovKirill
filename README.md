@@ -6,5 +6,7 @@
 - 📫 How to reach me: alferovkirill.mai@yandex.ru
 - ⚡ Fun fact: If Pinocchio said “My Nose Will Grow Now,” it would create a paradox.
 
-<!-- HTML -->
+
+
+
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a" alt="Jokes Card" />
