@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: HTML&CSS and Python/Django
+- 🌱 I’m currently learning: 💠Python, 💠C++ and 💠HTML&CSS 
 - 🤔 I’m looking for help with Classic Pong: testing, suggestions, adding features and etc.
 - 💬 Ask me about anything you want
 - 📫 How to reach me: alferovkirill.mai@yandex.ru
