@@ -9,4 +9,4 @@
 
 
 
-<img src="https://readme-jokes.vercel.app/api vue" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?vue" alt="Jokes Card" />
