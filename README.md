@@ -6,6 +6,9 @@
 - 📫 How to reach me: alferovkirill.mai@yandex.ru
 - ⚡ Fun fact: If Pinocchio said “My Nose Will Grow Now,” it would create a paradox.
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <!--
 **AlferovKirill/AlferovKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
