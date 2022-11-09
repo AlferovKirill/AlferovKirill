@@ -6,4 +6,4 @@
 - 📫 How to contact with me: alferovkirill.mai@yandex.ru
 - ⚡ Fun fact: If Pinocchio said “My Nose Will Grow Now,” it would create a paradox
 
-<h1>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill)](https://github.com/alferovkirill/github-readme-stats)</h1>
+<h1><img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill)](https://github.com/alferovkirill/github-readme-stats)"></h1>
