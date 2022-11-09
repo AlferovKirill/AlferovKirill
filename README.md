@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Kirill <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 - 📚 Currently I am studying C++
 - 💬 Ask me about anything you want
