@@ -9,4 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill&theme=default&hide=prs,issues,contribs&show_icons=true&hide_border=true&custom_title=My+Stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alferovkirill)](https://github.com/KnlnKS/leetcode-stats)
+![](https://komarev.com/ghpvc/?username=alferovkirill)
