@@ -7,3 +7,4 @@
 - ⚡ Fun fact: If Pinocchio said “My Nose Will Grow Now,” it would create a paradox
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alferovkirill&layout=compact)](https://github.com/alferovkirill/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill)](https://github.com/alferovkirill/github-readme-stats)
