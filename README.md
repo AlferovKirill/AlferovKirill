@@ -9,4 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill&theme=default&hide=prs,issues,contribs&show_icons=true&hide_border=true&custom_title=My+Stats)
 
-![](https://komarev.com/ghpvc/?username=alferovkirill&style=flat-square)
+![](https://komarev.com/ghpvc/?username=alferovkirill&style=flat-square&color=dc143c)
