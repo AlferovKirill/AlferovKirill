@@ -9,6 +9,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill)](https://github.com/alferovkirill/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill&theme=default&hide=stars,commits,prs,issues,contribs&show_icons=true)
-
-&show_icons=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alferovkirill&theme=default&hide=stars,commits,prs&show_icons=true)
