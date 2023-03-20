@@ -7,4 +7,4 @@
 - 📫 How to contact with me: alferovkirill.mai@yandex.ru
 - ⚡ Fun fact: If Pinocchio said “My Nose Will Grow Now,” it would create a paradox
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://leetcode.com/Alferov_Kirill/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Alferov_Kirill)](https://github.com/KnlnKS/leetcode-stats)
